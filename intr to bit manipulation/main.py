@@ -5,7 +5,7 @@ print("Num1 AND Num2=",num1&num2)
 #OR OPERATOR
 print("Num1 OR Num2=",num1|num2)
 #XOR OPERATOR
-print("Num1 XOR Num2=",num1^num2)
+print("Num1 OR Num2=",num1^num2)
 #NOT OPERATOR
 print("Not Num1=",~num1)
 #LEFT SHIFT OPERATOR
